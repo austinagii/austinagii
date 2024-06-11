@@ -13,7 +13,7 @@
 </p>
 
 - 🔭 I’m currently working on [Coach](https://github.com/austinagii/coach.ai) and [ANa](https://github.com/austinagii/ANa). Contributions are welcome!
-- 📝 I regularly write articles on [https://kadeemaustin.ai/](https://kadeemaustin.ai/)
+- 📝 I regularly write articles on [https://kadeemaustin.ai/](https://kadeemaustin.ai/) (Under Construction 🔨)
 - 📫 Shoot me an email at **contact@kadeemaustin.ai** or DM me on Twitter @ https://x.com/austinagii
 
 <p align="left"> 
