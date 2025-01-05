@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  I've been fairly undisciplined about keeping track of my projects over the years, so I'm aiming to be a bit more oganized with this github going forward.
+  I've taken a more unstructured approach with my projects over the years, so I'm aiming to be a bit more oganized with this github going forward.
 </p>
 
 - 🔭 I’m currently going back to basics with [Ember](https://github.com/austinagii/Ember) a lightweight library for training small neural nets. Contributions are welcome!
