@@ -1,20 +1,22 @@
-<h1 align="left">Hi 👋, I'm Kadeem</h1>
-<h3 align="left">I'm a creative engineer💡 turning fun ideas into AI products 🤖 I'm passionate about building in public and teaching/inspiring others to build, promote, and monetize their ideas 🚀</h3>
+<h1 align="left">Hey there! 👋</h1>
+<h3 align="left">I'm Kadeem, a professional software engineer and aspiring AI research engineer</h3>
 
 <p>
-  I've built software professionally for almost 10 years, launching products that serve hundreds of thousands of users in sectors such as banking and renewable energy. I'm brimming with ideas of things I'd like to exist in the world and am on a mission to bring as many of them to life as possible.
+  I've been building software professionally for almost a decade, launching products that serve hundreds of thousands in banking and renewable energy. I have quite a few questionable ideas about tools I'd like to build, experiments I'd like to run and products I'd like to see exist in the world and I'm taking steps to bring those to life (for better or worse 😅).
 </p>
 <p>
-  Ever since I got into computer science, I've been hooked on AI. I think AI is going to push software to the next level, and I'm all about leveraging AI in as many places as possible to build smarter, more intuitive, and amazing software.
+  My fascination with AI started early in my university days and I've been hooked ever since. I've experimented with everything from unsupervised and reinforcement learning (I got my first start with these from Aurélien Geron's amazing book <a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632">Hands On Machine Learning</a>, to modern deep neural networks and neural architecture search. Now, I focus on reasoning and interpretability in large-ish language models (~1 billion params) and using them to power autonomous agents.
 </p>
 
 <p>
-  I look forward to a world where everyone has easy access to the tools and knowledge they need to build creative products that enhance their lives and turn those products into profitable companies. (p.s. I'm a big believer in building solo and I'm excited to see the age of billion-dollar one-person companies)
+  I've been fairly undisciplined about keeping track of my projects over the years, so I'm aiming to be a bit more oganized with this github going forward.
 </p>
 
-- 🔭 I’m currently working on [Coach](https://github.com/austinagii/coach.ai) and [ANa](https://github.com/austinagii/ANa). Contributions are welcome!
-- 📝 I regularly write articles on [https://kadeemaustin.ai/](https://kadeemaustin.ai/) (Under Construction 🔨)
-- 📫 Shoot me an email at **contact@kadeemaustin.ai** or DM me on Twitter @ https://x.com/austinagii
+- 🔭 I’m currently going back to basics with [Ember](https://github.com/austinagii/Ember) a lightweight library for training small neural nets. Contributions are welcome!
+- 📝 I've started writing at [my website](https://kadeemaustin.ai/)
+- 💬 I share small updates on stuff i'm working on [@austinagii](https://x.com/austinagii)
+- 📹 I'll be making videos soon on YouTube
+- 📫 Shoot me an email at **contact@kadeemaustin.ai** or DM me on Twitter if you want to reach me
 
 <p align="left"> 
   <a href="https://twitter.com/austinagii" target="blank">
@@ -45,4 +47,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=austinagii&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=austinagii&theme=github_dark_dimmed&hide_border=false)
 
-⚡ Fun fact: I wanted to be a neuroscientist for most of my life until I found computer science. Now, with AI, I've found a sweet spot 😬
+⚡ Fun fact: I've always been fascinated by the brain and wanted to be a neuroscientist for most of my life until I found computer science. AI is that sweet spot between the two for me 😬
