@@ -5,7 +5,7 @@
   I've been building software professionally for almost a decade, launching products that serve hundreds of thousands in banking and renewable energy. I have quite a few questionable ideas about tools I'd like to build, experiments I'd like to run and products I'd like to see exist in the world and I'm taking steps to bring those to life (for better or worse 😅).
 </p>
 <p>
-  My fascination with AI started early in my university days and I've been hooked ever since. I've experimented with everything from unsupervised and reinforcement learning (I got my first start with these from Aurélien Geron's amazing book <a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632">Hands On Machine Learning</a>, to modern deep neural networks and neural architecture search. Now, I focus on reasoning and interpretability in large-ish language models (~1 billion params) and using them to power autonomous agents.
+  My fascination with AI started early in my university days and I've been hooked ever since. I've experimented with everything from unsupervised and reinforcement learning (I got my first start with these from Aurélien Geron's amazing book <a href="https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632">Hands On Machine Learning</a>), to modern deep neural networks and neural architecture search. Now, I focus on reasoning and interpretability in large-ish language models (~1 billion params) and using them to power autonomous agents.
 </p>
 
 <p>
