@@ -1,5 +1,5 @@
 <h1 align="left">Hey there! 👋</h1>
-<h3 align="left">I'm Kadeem, a professional software engineer and aspiring AI research engineer</h3>
+<h3 align="left">I'm Kadeem, a software engineer and aspiring AI research engineer</h3>
 
 <p>
   I've been building software professionally for almost a decade, launching products that serve hundreds of thousands in banking and renewable energy. I have quite a few questionable ideas about tools I'd like to build, experiments I'd like to run and products I'd like to see exist in the world and I'm taking steps to bring those to life (for better or worse 😅).
